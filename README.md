@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Wen Dev Portfolio.<br>🎓BCA Graduate from Amity University.<br>👯 I’m looking to collaborate on Python Projects.<br>🤝 I’m looking for Internship / Full-time job.<br>🌱 I’m currently learning UI/UX and Node.js<br>💬 Ask me about Anime and Web dev.<br>[![](https://visitcount.itsvg.in/api?id=anukultyagi&icon=1&color=3)](https://visitcount.itsvg.in)
+🔭 I’m currently working on Web Dev Portfolio.<br>🎓BCA Graduate from Amity University.<br>👯 I’m looking to collaborate on Python Projects.<br>🤝 I’m looking for Internship / Full-time job.<br>🌱 I’m currently learning UI/UX and Node.js<br>💬 Ask me about Anime and Web dev.<br>[![](https://visitcount.itsvg.in/api?id=anukultyagi&icon=1&color=3)](https://visitcount.itsvg.in)
 <br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
